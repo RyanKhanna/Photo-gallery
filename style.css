@@ -1,0 +1,9 @@
+.menu1{
+    list-style: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: aqua;
+}
